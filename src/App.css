@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+
+.navDiv{
+  height:80px;
+  width:100%;
+  background: #ed8a63;/*Peachy Kreme*/
+}
+.logo{
+  width: 70px;
+  height: 70%px;
+}
+.menu-btn{
+  width:100%;
+  height:60px;
+  background: teal;
+  font-size: 30px;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
